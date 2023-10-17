@@ -1,0 +1,12 @@
+{
+    "ext": "ts,json",
+    "watch": [
+        "./"
+    ],
+    "ignore": [
+        "scraper/**/*.spec.ts"
+    ],
+    "execMap": {
+        "ts": "ts-node-dev"
+    }
+}
